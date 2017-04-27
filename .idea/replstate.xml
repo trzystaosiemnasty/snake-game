@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1493325627252">{:repl-history {:ide [], :local [&quot;(doc map)&quot; &quot;(doc enable-console-print!)&quot; &quot;(use cljs)&quot; &quot;(use cljs.core)&quot;], :remote []}}</component>
+</project>
